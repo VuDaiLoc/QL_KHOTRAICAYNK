@@ -1,0 +1,10 @@
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\bin\Debug\QuanLyKhoTraiCayNK.exe.config
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\bin\Debug\QuanLyKhoTraiCayNK.exe
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\bin\Debug\QuanLyKhoTraiCayNK.pdb
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.Form1.resources
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.Properties.Resources.resources
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.exe
+C:\Users\nguye\source\repos\QuanLyKhoTraiCayNK\obj\Debug\QuanLyKhoTraiCayNK.pdb
